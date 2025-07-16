@@ -70,13 +70,13 @@ dataset/
 
 ### 🔹 Tom – Predicted Emotion
 
-![Tom Prediction](Tom_predicted.png)
+![Tom Prediction](Tom_Predicted.png)
 
 ---
 
 ### 🔹 Jerry – Predicted Emotion
 
-![Jerry Prediction](Jerry_predicted.png)
+![Jerry Prediction](Jerry_Predicted.png)
 
 
 ## ⚡ Future Improvements
