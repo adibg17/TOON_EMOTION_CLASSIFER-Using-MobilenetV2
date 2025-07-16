@@ -2,20 +2,6 @@
 
 This project classifies emotions in cartoon characters (Tom and Jerry) using transfer learning with the MobileNetV2 architecture. The model performs **multi-output classification**—detecting both the **character** and their **emotion** from the given image.
 
----
-
-## 📁 Project Structure
-
-TOON_EMOTION_MobileNetV2/
-├── Toon_Emotion_MobileNetV2.ipynb # Google Colab notebook
-├── model/ # Trained model weights (optional)
-└── dataset/ # Not included due to size
-
-yaml
-Copy
-Edit
-
----
 
 ## 🧠 Model Overview
 
@@ -43,7 +29,7 @@ Edit
 
 > 📷 *Refer to the visual classification report below:*
 
-![Character and Emotion Report](dc899aab-0928-4c76-a1d0-5c5c2923d26d.png)
+![Character and Emotion Report](Classification_Report.png)
 
 ---
 
@@ -80,6 +66,18 @@ dataset/
 - Matplotlib, NumPy, Seaborn
 
 ---
+## 🖼️ Sample Predictions
+
+### 🔹 Tom – Predicted Emotion
+
+![Tom Prediction](Tom_predicted.png)
+
+---
+
+### 🔹 Jerry – Predicted Emotion
+
+![Jerry Prediction](Jerry_predicted.png)
+
 
 ## ⚡ Future Improvements
 
@@ -94,7 +92,7 @@ dataset/
 
 Aditya BG  
 Third-Year Computer Science Student  
-📧 Contact: [LinkedIn / GitHub / Email if you wish to add]
+📧 Contact:adityabg11@gmail.com
 
 ---
 
